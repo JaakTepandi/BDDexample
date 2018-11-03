@@ -1,1 +1,1 @@
-A BDD example
+A BDD example with an illustrative error.
